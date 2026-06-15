@@ -42,8 +42,6 @@ A continuación, se detalla el listado consolidado de los artículos científico
 | **2025** | *Understanding the influence of motivation on requirements engineering-related activities* | Hidellaarachchi, D., et al. | Empirical Software Engineering |
 | **2024** | *Advances in automated support for requirements engineering: a systematic literature review* | Umar, M.A., & Lano, K. | Requirements Engineering |
 | **2023** | *To group or not to group? Group sizes for requirements elicitation* | Mich, L., et al. | Information and Software Technology |
-| **2023** | *A systematic mapping study and practitioner insights on the use of software engineering practices to develop MVPs* | Alonso, S., et al. | Information and Software Technology |
-| **2022** | *Evaluating a privacy requirements specification method by using a mixed-method approach* | Peixoto, M., et al. | Requirements Engineering |
 | **2022** | *How has design thinking being used and integrated into software development activities?* | Parizi, R., et al. | Journal of Systems and Software |
 | **2022** | *A Tacit-Knowledge-Based Requirements Elicitation Model Supporting COVID-19 Con* | Anwar, H., et al. | IEEE Access |
 | **2022** | *Crowd-based requirements elicitation via pull feedback: method and case studies* | Wouters, J., et al. | Requirements Engineering |
